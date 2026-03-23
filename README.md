@@ -125,4 +125,4 @@ The batch pipeline was run across 6 subreddits collecting over 5,000 comments. K
 
 **Amiola Onabanjo**  
 MSc Data Science — Liverpool John Moores University  
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [GitHub](https://github.com/onabanjoamiola-ux)
